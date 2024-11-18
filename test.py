@@ -1,1 +1,1 @@
-print("Wassup Buddy!! now change has been done  it is automatic")
+print("Wassup Buddy!! now change has been done  it is automatic updated")
